@@ -19,7 +19,7 @@ const middlewares = jsonServer.defaults();
 
 // server.use(cors());
 const corsOptions = {
-  origin: 'https://route-task-git-master-salma-als-projects.vercel.app', 
+  origin: 'https://route-json-server-salma-als-projects.vercel.app', 
   optionsSuccessStatus: 200,
 };
 
